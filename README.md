@@ -30,6 +30,8 @@ listings look interesting with minimalist. Detail product page has to feature:
   <li>Product specs: name,Company, Category, Price, Rating, Discount, Availablity</li>
   <li>Detailed product description.</li>
 </ul>
-![e2](https://github.com/user-attachments/assets/036d562e-2acd-4356-b5ae-5995d6c53193)
+
+![e2](https://github.com/user-attachments/assets/da0eb5a1-6490-4259-b719-fcc64621adb6)
+
 
 
