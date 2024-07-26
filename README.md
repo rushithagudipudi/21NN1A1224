@@ -1,34 +1,26 @@
 
 # ECommerce-App-using-React-JS
-ECommerce App using React JS and Redux with Using Fetch API to Get Products Data
+ECommerce App using React JS and Redux with Using Given  API to Get Products Data
 
 
 
-### **Fitur Sparkle Shop Website**
+### **Afformed Shop Website**
 
 <ul>
-  <li>Homepage.</li>
   <li>Category pages.</li>
   <li>Product landing pages.</li>
 </ul>
 
 <br>
 
-Home Page Sparkle Shop
-=======================
-
-On the home page, Sparkle Shop website designs use headers and short descriptions about sparkle attention headlines and captivating visual images to capture a customer’s interest, featuring a promotional banner above your navigation to advertise a special product.
-
-![slide1](https://user-images.githubusercontent.com/65702027/156356564-cc0febab-ebc5-4c62-98c6-a087a80aa841.PNG)
-
-<br>
 
 Product Category Page Sparkle Shop
 =======================
 
 On the sparkle products page, you can add items directly from the list product pages, from any item's product detail page, through a filter Product Functionality to Filter Products and Use Skeleton Loading When Calling API. 
 
-![Frame 1 (10)](https://user-images.githubusercontent.com/65702027/156356591-7dd9ecb5-b2bd-4d3f-9a1c-ce070d25fb65.png)
+![e1](https://github.com/user-attachments/assets/cf9cbf70-f8f2-4f7c-a596-985add34578d)
+
 
 <br>
 
@@ -36,9 +28,10 @@ Detail Product Page Sparkle Shop
 =======================
 
 listings look interesting with minimalist. Detail product page has to feature:
+
 <ul>
   <li>High-quality product photo</li>
-  <li>Product specs: name, prices, key features,  and rating.</li>
+  <li>Product specs: name,Company, Category, Price, Rating, Discount, Availablity</li>
   <li>Buy and view cart buttons.</li>
   <li>Detailed product description.</li>
 </ul>
