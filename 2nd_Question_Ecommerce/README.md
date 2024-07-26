@@ -8,6 +8,8 @@ ECommerce App using React JS and Redux with Using FetchData  API to Get Products
   <li>Product landing pages.</li>
 </ul>
 
+![image](https://github.com/user-attachments/assets/6baba533-db67-429b-9cd7-65dc0f15ce4a)
+
 Product Category Page 
 =======================
 
