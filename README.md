@@ -14,7 +14,7 @@ ECommerce App using React JS and Redux with Using Given  API to Get Products Dat
 <br>
 
 
-Product Category Page Sparkle Shop
+Product Category Page 
 =======================
 
 On the sparkle products page, you can add items directly from the list product pages, from any item's product detail page, through a filter Product Functionality to Filter Products and Use Skeleton Loading When Calling API. 
